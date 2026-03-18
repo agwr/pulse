@@ -124,7 +124,7 @@ class Course:
 
     def __str__(self) -> str:
         """
-        Returns a string representation of the course, including registration and prerequisite information.
+        Returns a string representation of the course, including registration information and waitlist status.
 
         Returns:
             str: A string representation of the course.
